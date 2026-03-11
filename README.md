@@ -26,3 +26,8 @@ Ensure you have Python 3.9+ installed. You will need to install the following de
 pip install python-docx requests deep_translator
 
 
+
+## 📝Example Usuage
+-python generator.py CVE-2026-27804
+
+Output:CVE_Report_CVE-2026-27804.docx
