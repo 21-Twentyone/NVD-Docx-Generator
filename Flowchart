@@ -1,0 +1,11 @@
+User inputs CVE ID
+        ↓
+Python script sends request to NVD API
+        ↓
+Receives JSON vulnerability data
+        ↓
+Extracts relevant fields
+        ↓
+Uses python-docx
+        ↓
+Generates DOCX report
