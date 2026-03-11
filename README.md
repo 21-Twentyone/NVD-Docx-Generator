@@ -23,7 +23,7 @@ This script automates the manual task of looking up CVE details and formatting t
 Ensure you have Python 3.9+ installed. You will need to install the following dependencies:
 
 ```bash
-pip install python-docx requests deep_translator
+pip install python-docx, requests and deep_translator
 
 
 
